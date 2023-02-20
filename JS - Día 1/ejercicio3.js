@@ -1,0 +1,1 @@
+// Los comentarios pueden hacer el código legible, fácil de usar e informativo

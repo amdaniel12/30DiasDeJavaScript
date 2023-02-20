@@ -1,0 +1,5 @@
+console.log(typeof 'Daniel')
+console.log(typeof 20)
+console.log(typeof false)
+console.log(typeof null)
+console.log(typeof undefined)
